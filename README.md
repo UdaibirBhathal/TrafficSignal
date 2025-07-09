@@ -1,3 +1,14 @@
-Project Description
+# 🚦 React Traffic Light Simulator
 
-This project is a simple traffic signal simulator built using React. It visually represents a standard traffic light with red, yellow, and green lights that change in a timed sequence. The project demonstrates fundamental React concepts such as component-based architecture, useState for dynamic state management, and conditional rendering. The lights transition smoothly using CSS, enhancing the user interface. It serves as an educational tool for understanding how React handles real-time updates and UI changes. Ideal for beginners, this project showcases how a functional, interactive component can be created with minimal code while effectively illustrating core React principles.
+This project simulates a real-world **traffic light system** using **React**, showcasing **state management**, **component re-rendering**, and **timed UI updates**. It's a simple yet powerful demonstration of how React handles dynamic state changes and reactivity in the browser.
+
+---
+
+## 🧠 Key Features
+
+- ⏱ Automatically cycles through **red**, **yellow**, and **green** lights using timers
+- 🎯 Demonstrates **React's `useState`** and **`useEffect`** for state and side effects
+- ✨ Smooth transitions using CSS animations
+- 💡 Fully encapsulated component styling for modular development
+
+---
